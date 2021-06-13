@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "433423502207",
+    "project_id": "parcial-119f2",
+    "storage_bucket": "parcial-119f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433423502207:android:6d3821d69ab348d57ba84a",
+        "android_client_info": {
+          "package_name": "com.example.parcial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "433423502207-38m5repsoqt9o9fdr894apsqnvuf675r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHs92wpMrxL5rOyf5oGn7Uk7WLhe7QNhE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "433423502207-38m5repsoqt9o9fdr894apsqnvuf675r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
